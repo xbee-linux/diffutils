@@ -13,7 +13,8 @@ description: |
   sdiff: Merges two files and interactively outputs the results
 
 var:
-  version: 3.8
+  xbee:
+    version: 3.8
 
 provision:
   url: https://ftp.gnu.org/gnu/diffutils/diffutils-{{ .version }}.tar.xz
