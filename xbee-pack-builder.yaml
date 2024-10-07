@@ -1,7 +1,5 @@
 schema-version: 1.0
 
-type: builder
-
 description: |
   The Diffutils package contains programs that show the differences between files or directories.
 
